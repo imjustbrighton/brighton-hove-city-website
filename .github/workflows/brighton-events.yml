@@ -41,3 +41,5 @@ jobs:
             git commit -m "Update Brighton events feed"
             git push
           fi
+
+# Feed initialized.
