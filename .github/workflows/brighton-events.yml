@@ -1,0 +1,43 @@
+name: Update Brighton Events
+
+on:
+  push:
+    paths:
+      - "events/scrape.py"
+      - ".github/workflows/brighton-events.yml"
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Scrape Brighton events
+        run: python events/scrape.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "ImJustBrighton Events Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add events/events.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update Brighton events feed"
+            git push
+          fi
