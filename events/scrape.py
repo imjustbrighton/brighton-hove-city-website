@@ -26,7 +26,7 @@ def fetch(url):
 def month_urls():
     today = datetime.utcnow().date()
     urls = []
-    for i in range(0, 7):
+    for i in range(0, 3):
         d = today.replace(day=1)
         month = d.month - 1 + i
         year = d.year + month // 12
@@ -192,7 +192,7 @@ def main():
             events.append(event)
         if index % 20 == 0:
             print("Parsed", index, "of", len(links))
-        time.sleep(0.08)
+        time.sleep(0.02)
 
     # Remove duplicates and past events, keeping multi-day events alive.
     unique = {}
