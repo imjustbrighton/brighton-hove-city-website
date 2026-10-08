@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T06:04:19Z",
+  "updated": "2026-10-08T13:35:59Z",
   "source": "https://brighton.co.uk/whats-on/",
   "events": [
     {
@@ -102,28 +102,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "meditation-and-mindfulness",
-      "title": "Meditation and Mindfulness",
-      "start": "2026-10-01T18:30:00+01:00",
-      "end": "2026-10-01T21:00:00+01:00",
-      "venue": "Friends Meeting House",
-      "description": "&lt;p&gt;A volunteer-led mindfulness and meditation session for young adults, inspired by the teachings of Zen master Thich Nhat Hanh.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/meditation-and-mindfulness/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "early-music-open-mic-emily-baines",
-      "title": "Early Music Open Mic – Emily Baines",
-      "start": "2026-10-01T20:00:00+01:00",
-      "end": "2026-10-01T20:00:00+01:00",
-      "venue": "The Rose Hill",
-      "description": "&lt;p&gt;Performers and listeners are welcome at this informal early music open mic hosted by Emily Baines. Entry is by donation.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/events/early-music-open-mic-emily-baines/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "sober-social-karaoke-night",
       "title": "Sober Social: Karaoke Night",
       "start": "2026-10-02T18:00:00+01:00",
@@ -132,50 +110,6 @@
       "description": "&lt;p&gt;A relaxed sober karaoke night with food and time to connect with others at Kennedy Street Recovery Hub.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/sober-social-karaoke-night/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "city-of-dreams",
-      "title": "City of Dreams",
-      "start": "2026-10-02T19:00:00+01:00",
-      "end": "2026-10-02T19:00:00+01:00",
-      "venue": "St George’s Church",
-      "description": "&lt;p&gt;City of Dreams opens Brighton Early Music Festival’s main programme with music inspired by dreams, imagination and nocturnal worlds.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/events/city-of-dreams/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "latino-fest",
-      "title": "Latino Fest",
-      "start": "2026-10-02T23:00:00+01:00",
-      "end": "2026-10-03T04:00:00+01:00",
-      "venue": "Concorde 2",
-      "description": "&lt;p&gt;A late-night Latin music party across two rooms at Concorde 2, with Reggaeton, Salsa, Bachata, Baile Funk and Latin Trap.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/latino-fest/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "oae-tots-1030",
-      "title": "OAE Tots – 10:30",
-      "start": "2026-10-03T10:30:00+01:00",
-      "end": "2026-10-03T10:30:00+01:00",
-      "venue": "Brighton Unitarian Church",
-      "description": "&lt;p&gt;The Orchestra of the Age of Enlightenment presents an interactive early music experience created for young children and their families.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/events/oae-tots-1030/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "oae-tots-1200",
-      "title": "OAE Tots – 12:00",
-      "start": "2026-10-03T12:00:00+01:00",
-      "end": "2026-10-03T12:00:00+01:00",
-      "venue": "Brighton Unitarian Church",
-      "description": "&lt;p&gt;The Orchestra of the Age of Enlightenment presents an interactive early music experience created for young children and their families.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/events/oae-tots-1200/",
       "source": "Brighton.co.uk"
     },
     {
@@ -190,17 +124,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "discover-the-dojo-calm-your-mind-move-your-body",
-      "title": "Discover the Dojo: Calm Your Mind &amp; Move Your Body",
-      "start": "2026-10-03T14:00:00+01:00",
-      "end": "2026-10-03T16:00:00+01:00",
-      "venue": "Brighton Ki Centre",
-      "description": "&lt;p&gt;Discover Ki, the universal life force, and explore your mind/body connection through an afternoon of meditation, aikido, weapons &amp; healing&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/discover-the-dojo-calm-your-mind-move-your-body/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "brighton-creed-comic-con-october-2026",
       "title": "Brighton Creed Comic Con &#8211; October 2026",
       "start": "2026-10-04T10:00:00+01:00",
@@ -209,39 +132,6 @@
       "description": "&lt;p&gt;A day of cosplay, guests, creators, trader stalls, props, panels and photoshoots at Brighton Racecourse.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/brighton-creed-comic-con-october-2026/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "dream-lab-various-artists",
-      "title": "Dream Lab – Various Artists",
-      "start": "2026-10-04T13:30:00+01:00",
-      "end": "2026-10-04T16:30:00+01:00",
-      "venue": "St. Augustine&#8217;s Arts &#038; Events Centre",
-      "description": "&lt;p&gt;Dream Lab brings together various artists for an afternoon of performances and ideas exploring the meeting point between music, imagination and dreams.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/events/dream-lab-various-artists/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "katherine-jenkins-25-year-anniversary-tour",
-      "title": "Katherine Jenkins: 25 Year Anniversary Tour",
-      "start": "2026-10-06T19:00:00+01:00",
-      "end": "2026-10-06T19:00:00+01:00",
-      "venue": "Brighton Dome",
-      "description": "&lt;p&gt;Katherine Jenkins celebrates 25 years in music with a special anniversary concert at Brighton Dome.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/katherine-jenkins-25-year-anniversary-tour/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "improvised-comedy-night",
-      "title": "Improvised Comedy Night",
-      "start": "2026-10-06T20:00:00+01:00",
-      "end": "2026-10-06T22:00:00+01:00",
-      "venue": "The Actors",
-      "description": "&lt;p&gt;A monthly improv comedy night featuring different troupes from Brighton and beyond, with performances created completely on the spot.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/improvised-comedy-night/",
       "source": "Brighton.co.uk"
     },
     {
@@ -264,17 +154,6 @@
       "description": "&lt;p&gt;A student shopping night with exclusive discounts, offers, live entertainment, music and competitions across Churchill Square.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/student-shopping-night-at-churchill-square/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "monthly-mending-repair-your-clothes-and-bring-them-back-to-life",
-      "title": "Monthly mending: repair your clothes and bring them back to life!",
-      "start": "2026-10-07T19:00:00+01:00",
-      "end": "2026-10-07T19:00:00+01:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;A relaxed monthly clothes-mending session focused on hand stitching, darning and sashiko, with skill-sharing and basic materials provided.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/monthly-mending-repair-your-clothes-and-bring-them-back-to-life/",
       "source": "Brighton.co.uk"
     },
     {
@@ -322,17 +201,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "one-song-exhibition-kadir-karababa",
-      "title": "One Song Exhibition – Kadir Karababa",
-      "start": "2026-10-09T00:00:00+01:00",
-      "end": "2026-10-28T23:59:59+00:00",
-      "venue": "Fabrica",
-      "description": "&lt;p&gt;Kadir Karababa’s free One Song exhibition explores a single song through sound and visual art. Open daily from 9 to 28 October except Mondays.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/events/one-song-exhibition-kadir-karababa/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "november",
       "title": "One Song Exhibition – Kadir Karababa",
       "start": "2026-10-09T00:00:00+01:00",
@@ -341,17 +209,6 @@
       "description": "&lt;p&gt;Kadir Karababa’s free One Song exhibition explores a single song through sound and visual art. Open daily from 9 to 28 October except Mondays.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
       "url": "https://brighton.co.uk/whats-on/november/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "lgbtq-print-media-celebration-pop-up",
-      "title": "LGBTQ+ Print Media Celebration Pop-up",
-      "start": "2026-10-09T17:00:00+01:00",
-      "end": "2026-10-09T19:00:00+01:00",
-      "venue": "Bearly Awake",
-      "description": "&lt;p&gt;A celebration of LGBTQ+ magazines, independent publishing and queer print, featuring the Brighton launch of BOYS BOYS BOYS.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/lgbtq-print-media-celebration-pop-up/",
       "source": "Brighton.co.uk"
     },
     {
@@ -374,17 +231,6 @@
       "description": "&lt;p&gt;Wrap, cook and eat your own gyoza! Make 10+, enjoy with miso soup or tea and rice. Fun, social and perfect for meeting new people. NEW DATE RELEASED DUE TO [&hellip;]&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/wrap-eat-and-mingle-gyoza-wrapping-workshop/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "halloween-origami-workshop",
-      "title": "Halloween Origami Workshop",
-      "start": "2026-10-10T11:00:00+01:00",
-      "end": "2026-10-10T12:30:00+01:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;A Halloween origami workshop folding bats, cats and cute ghosts, suitable for all ages.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/halloween-origami-workshop/",
       "source": "Brighton.co.uk"
     },
     {
@@ -454,17 +300,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "halloween-origami-workshop-lantern-lights",
-      "title": "Halloween Origami Workshop: Lantern Lights",
-      "start": "2026-10-12T18:00:00+01:00",
-      "end": "2026-10-12T20:00:00+01:00",
-      "venue": "The Mucky Duck",
-      "description": "&lt;p&gt;A Halloween-themed origami workshop at The Mucky Duck making spooky lantern lights, with all materials and string lights provided.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/halloween-origami-workshop-lantern-lights/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "bhafc-foundation-benefit-fatboy-slim",
       "title": "BHAFC Foundation Benefit: Fatboy Slim",
       "start": "2026-10-13T18:00:00+01:00",
@@ -487,17 +322,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "modern-toss-flies-collected-specimens-2004-26",
-      "title": "Modern Toss: Flies – Collected Specimens 2004–26",
-      "start": "2026-10-16T00:00:00+01:00",
-      "end": "2026-10-25T23:59:59+00:00",
-      "venue": "Brighton Dome",
-      "description": "&lt;p&gt;An exhibition bringing together more than 20 years of fly-based work by cult cartoonists Modern Toss.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/modern-toss-flies-collected-specimens-2004-26/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "big-autumn-market",
       "title": "Big Autumn Market",
       "start": "2026-10-16T09:00:00+01:00",
@@ -506,17 +330,6 @@
       "description": "&lt;p&gt;The Sussex Peasant’s Big Autumn Markets return this October with a celebration of Sussex seasonal food, farming and community. Taking place along the edge of St. Ann’s Well Gardens in [&hellip;]&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/big-autumn-market.webp",
       "url": "https://brighton.co.uk/whats-on/events/big-autumn-market/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "coffee-meeting-for-women-in-the-music-industry",
-      "title": "Coffee Meeting for Women in the Music Industry",
-      "start": "2026-10-16T11:00:00+01:00",
-      "end": "2026-10-16T13:00:00+01:00",
-      "venue": "Spring Cafe",
-      "description": "&lt;p&gt;A relaxed coffee meeting for women working in the music industry to meet, connect and build their professional community.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/coffee-meeting-for-women-in-the-music-industry/",
       "source": "Brighton.co.uk"
     },
     {
@@ -539,28 +352,6 @@
       "description": "&lt;p&gt;A curated makers market bringing together independent designers, artists, collectors and vintage sellers at St Bartholomew\\'s Church.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/brightons-craft-flea-market/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "draw-on-sweet-night",
-      "title": "Draw On, Sweet Night",
-      "start": "2026-10-17T13:00:00+01:00",
-      "end": "2026-10-17T13:00:00+01:00",
-      "venue": "St Nicholas&#8217; Church",
-      "description": "&lt;p&gt;An intimate early music concert inspired by night, reflection and stillness.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/events/draw-on-sweet-night/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "comedy-club-4-kids",
-      "title": "Comedy Club 4 Kids",
-      "start": "2026-10-17T14:00:00+01:00",
-      "end": "2026-10-17T14:00:00+01:00",
-      "venue": "Komedia",
-      "description": "&lt;p&gt;Top stand-up and sketch comedy for children aged six and over and their families, without the rude bits.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/comedy-club-4-kids/",
       "source": "Brighton.co.uk"
     },
     {
@@ -597,17 +388,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "mood-boarding",
-      "title": "Mood Boarding",
-      "start": "2026-10-19T18:00:00+01:00",
-      "end": "2026-10-19T22:00:00+01:00",
-      "venue": "The Cow",
-      "description": "&lt;p&gt;A free monthly mood boarding evening with craft materials provided, plus drinks deals at The Cow.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/mood-boarding/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "siblings-dreamweavers",
       "title": "Siblings: Dreamweavers",
       "start": "2026-10-19T19:30:00+01:00",
@@ -641,17 +421,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "mutations-festival-2026-friday",
-      "title": "Mutations Festival 2026 – Friday",
-      "start": "2026-10-23T00:00:00+01:00",
-      "end": "2026-10-23T23:59:59+01:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;Day one of Mutations Festival, headlined by Fat Dog. The 2026 festival uses Alphabet, Chalk, Daltons, Dust, The Folklore Rooms, Green Door Store, The Hope &amp; Ruin, Patterns, The Prince Albert and Revenge.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/mutations-festival-2026-friday/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "brighton-artisan-festival",
       "title": "Brighton Artisan Festival",
       "start": "2026-10-23T10:00:00+01:00",
@@ -682,50 +451,6 @@
       "description": "&lt;p&gt;BREMF Community Choir performs a programme celebrating sunlight, warmth and shared song.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
       "url": "https://brighton.co.uk/whats-on/events/brother-sun-bremf-community-choir/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "dan-tiernan-quartz-and-all",
-      "title": "Dan Tiernan: Quartz and All",
-      "start": "2026-10-23T19:30:00+01:00",
-      "end": "2026-10-23T19:30:00+01:00",
-      "venue": "Brighton Dome",
-      "description": "&lt;p&gt;Dan Tiernan returns with a new stand-up show armed with jokes, punchlines and an assortment of magic rocks.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/dan-tiernan-quartz-and-all/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "dance-till-you-die",
-      "title": "Dance Till You Die",
-      "start": "2026-10-23T22:30:00+01:00",
-      "end": "2026-10-24T02:00:00+01:00",
-      "venue": "Alphabet Brighton",
-      "description": "&lt;p&gt;A Halloween club night at The Alphabet with DJ duo The Virgin Vinyls, dancing and a FLINTA &amp; Friends crowd.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/dance-till-you-die/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "mutations-festival-2026-saturday",
-      "title": "Mutations Festival 2026 – Saturday",
-      "start": "2026-10-24T00:00:00+01:00",
-      "end": "2026-10-24T23:59:59+01:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;Day two of Mutations Festival, headlined by Mike D\\'s 5D. The 2026 festival uses Alphabet, Chalk, Daltons, Dust, The Folklore Rooms, Green Door Store, The Hope &amp; Ruin, Patterns, The Prince Albert and Revenge.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/mutations-festival-2026-saturday/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "family-singing-workshop-hannah-ely",
-      "title": "Family Singing Workshop &#8211; Hannah Ely",
-      "start": "2026-10-24T10:30:00+01:00",
-      "end": "2026-10-24T11:30:00+01:00",
-      "venue": "Fabrica",
-      "description": "&lt;p&gt;A welcoming family singing workshop led by soprano and educator Hannah Ely.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/events/family-singing-workshop-hannah-ely/",
       "source": "Brighton.co.uk"
     },
     {
@@ -795,17 +520,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "free-comedy-night",
-      "title": "Free Comedy Night",
-      "start": "2026-10-28T20:00:00+00:00",
-      "end": "2026-10-28T22:00:00+00:00",
-      "venue": "Pink Moon",
-      "description": "&lt;p&gt;Free new-material stand-up comedy at Pink Moon on Ship Street.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/free-comedy-night/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "reggaeton-halloween-party",
       "title": "Reggaeton Halloween Party",
       "start": "2026-10-30T23:00:00+00:00",
@@ -817,28 +531,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "halloween-at-the-lido",
-      "title": "Halloween at the Lido",
-      "start": "2026-10-31T19:00:00+00:00",
-      "end": "2026-10-31T23:30:00+00:00",
-      "venue": "Saltdean Lido",
-      "description": "&lt;p&gt;A Halloween party at Saltdean Lido with DJ music, cocktails and a fancy-dress competition.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/halloween-at-the-lido/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "lots-of-hands-sundots",
-      "title": "Lots of Hands &amp; sundots",
-      "start": "2026-11-06T19:00:00+00:00",
-      "end": "2026-11-06T19:00:00+00:00",
-      "venue": "Dust",
-      "description": "&lt;p&gt;Lots of Hands and sundots perform live at Dust in Brighton.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/lots-of-hands-sundots/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "vegfestuk-brighton-2026",
       "title": "VegfestUK Brighton 2026",
       "start": "2026-11-07T11:00:00+00:00",
@@ -847,17 +539,6 @@
       "description": "&lt;p&gt;VegfestUK returns to Brighton with 120 stalls, talks, performances, speakers and a dedicated vegan food village.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/vegfestuk-brighton-2026/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "mark-thomas-40-in-stand-up-years",
-      "title": "Mark Thomas: 40 in Stand-Up Years",
-      "start": "2026-11-07T20:00:00+00:00",
-      "end": "2026-11-07T21:30:00+00:00",
-      "venue": "The Old Market",
-      "description": "&lt;p&gt;Mark Thomas celebrates four decades of stand-up with political comedy, stories and sharp observations.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
-      "url": "https://brighton.co.uk/whats-on/events/mark-thomas-40-in-stand-up-years/",
       "source": "Brighton.co.uk"
     },
     {
@@ -902,28 +583,6 @@
       "description": "&lt;p&gt;Robert White mixes songs, stand-up, improvisation and characteristically offbeat comedy in a brand-new show.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
       "url": "https://brighton.co.uk/whats-on/events/robert-white-that-gay-autistic-keyboard-tanktop-comedy-guy/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "niall-mcnamee-limited-edition-tour",
-      "title": "Niall McNamee &#8211; Limited Edition Tour",
-      "start": "2026-11-19T20:00:00+00:00",
-      "end": "2026-11-19T23:00:00+00:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;Irish singer-songwriter and actor Niall McNamee returns to The Prince Albert as part of his Limited Edition Tour.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/niall-mcnamee-limited-edition-tour/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "love-to-be-brighton",
-      "title": "Love to be… Brighton",
-      "start": "2026-11-28T16:00:00+00:00",
-      "end": "2026-11-28T23:00:00+00:00",
-      "venue": "Horizon",
-      "description": "&lt;p&gt;House music brand Love to be… takes over Horizon with Fat Tony, Sandy Rivera, Trimtone, lau.ra, Tom Davis and Brighton DJs.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/love-to-be-brighton/",
       "source": "Brighton.co.uk"
     },
     {
