@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:22:42Z",
+  "updated": "2026-10-09T22:42:04Z",
   "source": "https://brighton.co.uk/whats-on/",
   "events": [
     {
@@ -462,6 +462,28 @@
       "description": "&lt;p&gt;A Halloween-themed origami workshop at The Mucky Duck making spooky lantern lights, with all materials and string lights provided.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/halloween-origami-workshop-lantern-lights/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "bhafc-foundation-benefit-fatboy-slim",
+      "title": "BHAFC Foundation Benefit: Fatboy Slim",
+      "start": "2026-10-13T18:00:00+01:00",
+      "end": "2026-10-13T22:30:00+01:00",
+      "venue": "Quarters",
+      "description": "&lt;p&gt;Fatboy Slim plays Quarters in a special benefit show raising money for the Brighton &amp; Hove Albion Foundation.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
+      "url": "https://brighton.co.uk/whats-on/events/bhafc-foundation-benefit-fatboy-slim/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "transform-your-dreams-workshop-the-fine-hand",
+      "title": "Transform Your Dreams Workshop &#8211; The Fine Hand",
+      "start": "2026-10-15T18:15:00+01:00",
+      "end": "2026-10-15T19:45:00+01:00",
+      "venue": "Fabrica",
+      "description": "&lt;p&gt;A creative workshop with The Fine Hand exploring how dreams can be transformed into artistic ideas.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
+      "url": "https://brighton.co.uk/whats-on/events/transform-your-dreams-workshop-the-fine-hand/",
       "source": "Brighton.co.uk"
     },
     {
