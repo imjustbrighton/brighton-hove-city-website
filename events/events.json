@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T17:12:04Z",
+  "updated": "2026-10-22T21:36:54Z",
   "source": "https://brighton.co.uk/whats-on/",
   "events": [
     {
@@ -190,17 +190,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "discover-the-dojo-calm-your-mind-move-your-body",
-      "title": "Discover the Dojo: Calm Your Mind &amp; Move Your Body",
-      "start": "2026-10-03T14:00:00+01:00",
-      "end": "2026-10-03T16:00:00+01:00",
-      "venue": "Brighton Ki Centre",
-      "description": "&lt;p&gt;Discover Ki, the universal life force, and explore your mind/body connection through an afternoon of meditation, aikido, weapons &amp; healing Join us for an exciting open day and taster session [&hellip;]&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/ki-in-action.jpg",
-      "url": "https://brighton.co.uk/whats-on/events/discover-the-dojo-calm-your-mind-move-your-body/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "brighton-creed-comic-con-october-2026",
       "title": "Brighton Creed Comic Con &#8211; October 2026",
       "start": "2026-10-04T10:00:00+01:00",
@@ -220,6 +209,28 @@
       "description": "&lt;p&gt;Dream Lab brings together various artists for an afternoon of performances and ideas exploring the meeting point between music, imagination and dreams.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
       "url": "https://brighton.co.uk/whats-on/events/dream-lab-various-artists/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "open-eco-2026",
+      "title": "OPEN ECO 2026",
+      "start": "2026-10-05T00:00:00+01:00",
+      "end": "2026-11-01T23:59:59+00:00",
+      "venue": "Brighton Seafront Gallery",
+      "description": "&lt;p&gt;An outdoor Photo Fringe exhibition bringing together 20 photographic responses to the climate crisis on Brighton seafront.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/open-eco-2026/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "november",
+      "title": "OPEN ECO 2026",
+      "start": "2026-10-05T00:00:00+01:00",
+      "end": "2026-11-01T23:59:59+00:00",
+      "venue": "Brighton Seafront Gallery",
+      "description": "&lt;p&gt;An outdoor Photo Fringe exhibition bringing together 20 photographic responses to the climate crisis on Brighton seafront.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
+      "url": "https://brighton.co.uk/whats-on/november/",
       "source": "Brighton.co.uk"
     },
     {
@@ -330,17 +341,6 @@
       "description": "&lt;p&gt;Kadir Karababa’s free One Song exhibition explores a single song through sound and visual art. Open daily from 9 to 28 October except Mondays.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
       "url": "https://brighton.co.uk/whats-on/events/one-song-exhibition-kadir-karababa/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "november",
-      "title": "One Song Exhibition – Kadir Karababa",
-      "start": "2026-10-09T00:00:00+01:00",
-      "end": "2026-10-28T23:59:59+00:00",
-      "venue": "Fabrica",
-      "description": "&lt;p&gt;Kadir Karababa’s free One Song exhibition explores a single song through sound and visual art. Open daily from 9 to 28 October except Mondays.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/brighton-early-music-festival.webp",
-      "url": "https://brighton.co.uk/whats-on/november/",
       "source": "Brighton.co.uk"
     },
     {
@@ -630,6 +630,17 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "paint-and-sip-modelo",
+      "title": "Paint and Sip &#8211; Modelo",
+      "start": "2026-10-22T19:30:00+01:00",
+      "end": "2026-10-22T21:30:00+01:00",
+      "venue": "Modelo Lounge",
+      "description": "&lt;p&gt;Create your own mini BookBench at Modelo Lounge in a Story Trail-inspired paint and sip evening raising funds for Amaze.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/paint-and-sip-modelo/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "simon-amstell-i-love-it-here",
       "title": "Simon Amstell: I Love It Here",
       "start": "2026-10-22T19:30:00+01:00",
@@ -638,6 +649,17 @@
       "description": "&lt;p&gt;Following a sold-out London residency, Simon Amstell brings his new show I Love It Here to Brighton Dome Concert Hall as part of a limited tour.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/simon-amstell-i-love-it-here/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "amy-matthews-definitions-of-toast",
+      "title": "Amy Matthews: Definitions of Toast",
+      "start": "2026-10-22T20:00:00+01:00",
+      "end": "2026-10-22T20:00:00+01:00",
+      "venue": "Komedia",
+      "description": "&lt;p&gt;Comedian Amy Matthews brings Definitions of Toast to Komedia, exploring anger, queerness and the strange delays of emotional processing.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/amy-matthews-definitions-of-toast/",
       "source": "Brighton.co.uk"
     },
     {
@@ -795,6 +817,17 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "once-upon-a-trail",
+      "title": "Once Upon a Trail",
+      "start": "2026-10-28T17:00:00+00:00",
+      "end": "2026-10-28T20:00:00+00:00",
+      "venue": "The Colonnade Bar",
+      "description": "&lt;p&gt;A nighttime Story Trail adventure with performances, trick or treat, glitter tattoos, silent disco and light installations around Brighton city centre.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/once-upon-a-trail/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "free-comedy-night",
       "title": "Free Comedy Night",
       "start": "2026-10-28T20:00:00+00:00",
@@ -803,6 +836,17 @@
       "description": "&lt;p&gt;Free new-material stand-up comedy at Pink Moon on Ship Street.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/free-comedy-night/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "congregational",
+      "title": "Congregational",
+      "start": "2026-10-30T20:00:00+00:00",
+      "end": "2026-10-30T21:20:00+00:00",
+      "venue": "Brighton Dome &#8211; Corn Exchange",
+      "description": "&lt;p&gt;Fatt Butcher\\'s alternative choral mass for the nightclub blends live music, theatre, choir and dancefloor ritual at Brighton Dome.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/congregational/",
       "source": "Brighton.co.uk"
     },
     {
@@ -817,6 +861,17 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "a-family-halloween-party",
+      "title": "A Family Halloween Party",
+      "start": "2026-10-31T13:00:00+00:00",
+      "end": "2026-10-31T15:00:00+00:00",
+      "venue": "Bison Beer",
+      "description": "&lt;p&gt;A family Halloween party with games, crafts, music, fancy dress and a few spooky surprises for kids and grown ups.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/a-family-halloween-party/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "halloween-at-the-lido",
       "title": "Halloween at the Lido",
       "start": "2026-10-31T19:00:00+00:00",
@@ -828,6 +883,116 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "open-market-record-fair",
+      "title": "Open Market Record Fair",
+      "start": "2026-11-01T10:00:00+00:00",
+      "end": "2026-11-01T16:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;Dig through thousands of vinyl records, CDs, and music collectables from the region\\'s top dealers!&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/open-market-record-fair/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "vintage-market-fair",
+      "title": "Vintage Market Fair",
+      "start": "2026-11-01T11:00:00+00:00",
+      "end": "2026-11-01T15:00:00+00:00",
+      "venue": "Saltdean Lido",
+      "description": "&lt;p&gt;Browse vintage clothing, accessories, homewares, vinyl records and curios from independent sellers.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/vintage-market-fair/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "status-flo-mens-mental-health-awareness-month",
+      "title": "STATUS FLO: Men’s Mental Health Awareness Month",
+      "start": "2026-11-02T20:00:00+00:00",
+      "end": "2026-11-02T20:00:00+00:00",
+      "venue": "Brighton Dome &#8211; Studio Theatre",
+      "description": "&lt;p&gt;AFLO. the poet is joined by Kareem Parkins-Brown and local artist Gray Taylor for a Men’s Mental Health Awareness Month special&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
+      "url": "https://brighton.co.uk/whats-on/events/status-flo-mens-mental-health-awareness-month/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "martial-arts-for-beginners",
+      "title": "Martial Arts for Beginners",
+      "start": "2026-11-03T07:45:00+00:00",
+      "end": "2026-11-03T08:45:00+00:00",
+      "venue": "Saltdean Lido",
+      "description": "&lt;p&gt;A relaxing and friendly Wudang Tai Chi class, suitable for beginners and all levels with no previous experience required.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/martial-arts-for-beginners/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "life-drawing",
+      "title": "Life Drawing",
+      "start": "2026-11-03T19:00:00+00:00",
+      "end": "2026-11-03T22:00:00+00:00",
+      "venue": "The Bee&#8217;s Mouth",
+      "description": "&lt;p&gt;A relaxed, self-led life drawing session at The Bee\\'s Mouth in Hove, open to beginners and experienced artists with basic materials provided.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/life-drawing/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "schol-ready-hair",
+      "title": "SCHOL READY HAIR",
+      "start": "2026-11-03T19:00:00+00:00",
+      "end": "2026-11-03T20:30:00+00:00",
+      "venue": "Signalman",
+      "description": "&lt;p&gt;A relaxed, social workshop for parents to learn simple, practical and quick hairstyles&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/schol-ready-hair/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "women-in-business-networking",
+      "title": "Women in Business Networking",
+      "start": "2026-11-04T12:00:00+00:00",
+      "end": "2026-11-04T14:15:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;A friendly lunchtime networking event for women in business to make connections, share ideas and develop their businesses over lunch.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/women-in-business-networking/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "mind-in-brighton-and-hove-stress-toolkit-workshop",
+      "title": "Mind in Brighton and Hove Stress Toolkit Workshop",
+      "start": "2026-11-05T10:00:00+00:00",
+      "end": "2026-11-05T13:00:00+00:00",
+      "venue": "Community Base",
+      "description": "&lt;p&gt;An interactive and practical workshop which explores how stress works and its impact on you.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/mind-in-brighton-and-hove-stress-toolkit-workshop/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "the-old-police-cells-museum-guided-tour",
+      "title": "The Old Police Cells Museum Guided Tour",
+      "start": "2026-11-05T13:00:00+00:00",
+      "end": "2026-11-05T13:50:00+00:00",
+      "venue": "Brighton Town Hall",
+      "description": "&lt;p&gt;Step beneath Brighton Town Hall for a guided tour through the original Victorian police cells and 200 years of Sussex policing and crime history.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-old-police-cells-museum-guided-tour/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "unscripted-with-paul-f-taylor",
+      "title": "Unscripted with Paul F Taylor",
+      "start": "2026-11-05T20:00:00+00:00",
+      "end": "2026-11-05T21:00:00+00:00",
+      "venue": "Presuming Ed&#8217;s Coffee House",
+      "description": "&lt;p&gt;An entirely improvised comedy show from Brighton comedian Paul F Taylor.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/unscripted-with-paul-f-taylor/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "lots-of-hands-sundots",
       "title": "Lots of Hands &amp; sundots",
       "start": "2026-11-06T19:00:00+00:00",
@@ -836,6 +1001,28 @@
       "description": "&lt;p&gt;FORM Presents brings Lots of Hands and sundots to Dust for a live Brighton show.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/lots-of-hands-sundots/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "brighton-pub-crawl",
+      "title": "Brighton Pub Crawl",
+      "start": "2026-11-06T19:30:00+00:00",
+      "end": "2026-11-07T03:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;A guided Brighton pub crawl taking in five bars and clubs, with free shots, drink deals, queue-jump entry and a photographer throughout the night.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/brighton-pub-crawl/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "art-explorers-art-classes-for-children-in-a-real-gallery",
+      "title": "Art Explorers: Art Classes for Children in a Real Gallery",
+      "start": "2026-11-07T08:30:00+00:00",
+      "end": "2026-11-07T09:45:00+00:00",
+      "venue": "Gallery 19a",
+      "description": "&lt;p&gt;Dive into creativity with a fun art classes for kids in a real gallery with a canvas to keep!&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/art-explorers-art-classes-for-children-in-a-real-gallery/",
       "source": "Brighton.co.uk"
     },
     {
@@ -861,6 +1048,17 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "the-spirit-of-acid-jazz",
+      "title": "The Spirit of Acid Jazz!",
+      "start": "2026-11-07T22:30:00+00:00",
+      "end": "2026-11-08T02:00:00+00:00",
+      "venue": "Alphabet Brighton",
+      "description": "&lt;p&gt;A late-night dance party at ALPHABET celebrating 90s acid jazz.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-spirit-of-acid-jazz/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "the-men-they-couldnt-hang",
       "title": "The Men They Couldn’t Hang",
       "start": "2026-11-08T19:30:00+00:00",
@@ -869,6 +1067,28 @@
       "description": "&lt;p&gt;Formed in 1984, The Men They Couldn’t Hang combine folk roots, punk energy and politically charged storytelling. Their Brighton date brings the band’s high-octane live show to the Komedia Basement.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/the-men-they-couldnt-hang/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "dinosaurs-and-daydreams-exhibition-by-billy-murphy",
+      "title": "Dinosaurs and Daydreams Exhibition by Billy Murphy",
+      "start": "2026-11-10T11:00:00+00:00",
+      "end": "2026-11-10T17:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;A playful Billy Murphy exhibition at Gallery40 exploring childhood nostalgia and adulthood through 80+ works and a full-scale 90s kid\\'s bedroom.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/dinosaurs-and-daydreams-exhibition-by-billy-murphy/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "the-classics-book-club-redefining-the-genre",
+      "title": "The Classics Book Club: Redefining The Genre",
+      "start": "2026-11-10T18:30:00+00:00",
+      "end": "2026-11-10T20:30:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;A monthly book club at Afrori Books exploring and celebrating classic fiction by Black authors in a relaxed, inclusive discussion.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-classics-book-club-redefining-the-genre/",
       "source": "Brighton.co.uk"
     },
     {
@@ -883,6 +1103,28 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "the-big-debate-are-brighton-businesses-resilient-enough",
+      "title": "The Big Debate: Are Brighton businesses resilient enough?",
+      "start": "2026-11-12T17:00:00+00:00",
+      "end": "2026-11-12T19:30:00+00:00",
+      "venue": "PLATF9RM &#8211; Hove",
+      "description": "&lt;p&gt;Bringing local business leaders together to discuss resilience, leadership, strategy, risk and how Brighton businesses can adapt to uncertainty.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-big-debate-are-brighton-businesses-resilient-enough/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "love-indies-autumn-show-and-tell-2026",
+      "title": "Love Indies Autumn Show and Tell 2026",
+      "start": "2026-11-13T13:00:00+00:00",
+      "end": "2026-11-13T16:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;A low-pressure showcase for local game developers to playtest work, get feedback and chat with other people in the games industry.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/love-indies-autumn-show-and-tell-2026/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "the-entitled-sons",
       "title": "The Entitled Sons",
       "start": "2026-11-13T19:00:00+00:00",
@@ -891,6 +1133,50 @@
       "description": "&lt;p&gt;Alt-rock five-piece The Entitled Sons bring their winter UK tour to Patterns in Brighton.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/the-entitled-sons/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "chris-ramsey-here-man",
+      "title": "Chris Ramsey: Here, Man!",
+      "start": "2026-11-13T19:30:00+00:00",
+      "end": "2026-11-13T19:30:00+00:00",
+      "venue": "Brighton Dome &#8211; Concert Hall",
+      "description": "&lt;p&gt;Chris Ramsey brings his trademark stand-up to Brighton Dome with Here, Man!, following a sold-out spring tour.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/chris-ramsey-here-man/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "elder-emo-day-party-in-brighton",
+      "title": "Elder Emo Day Party in Brighton!",
+      "start": "2026-11-14T16:00:00+00:00",
+      "end": "2026-11-14T20:00:00+00:00",
+      "venue": "Quarters",
+      "description": "&lt;p&gt;A daytime emo and pop-punk party at Quarters packed with nostalgic anthems, scream-alongs and alternative favourites.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/elder-emo-day-party-in-brighton/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "on-your-bike-baffo",
+      "title": "On Your Bike Baffo!",
+      "start": "2026-11-15T11:30:00+00:00",
+      "end": "2026-11-15T12:15:00+00:00",
+      "venue": "The Old Market",
+      "description": "&lt;p&gt;A joyful family clown show combining slapstick, live music and audience play in an interactive adventure about imagination and trying again.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/on-your-bike-baffo/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "oh-my-god-its-the-church-the-original-sinners-tour",
+      "title": "Oh My God! It&#8217;s The Church &#8211; The Original Sinners Tour",
+      "start": "2026-11-18T19:30:00+00:00",
+      "end": "2026-11-18T23:00:00+00:00",
+      "venue": "Concorde 2",
+      "description": "&lt;p&gt;Oh My God! It\\'s The Church bring their gospel, funk, soul and rock\\'n\\'roll live spectacle to Concorde 2 on The Original Sinners Tour.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/oh-my-god-its-the-church-the-original-sinners-tour/",
       "source": "Brighton.co.uk"
     },
     {
@@ -916,6 +1202,160 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "house-of-spank-rituals-of-the-occult",
+      "title": "House of Spank: Rituals of the Occult",
+      "start": "2026-11-20T21:00:00+00:00",
+      "end": "2026-11-21T02:30:00+00:00",
+      "venue": "Revenge",
+      "description": "&lt;p&gt;House of Spank returns for an adults-only night of DJs, performance, fetish fashion and occult-inspired theatrics.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/house-of-spank-rituals-of-the-occult/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "sweat-queer-hyperpop-party-presents-gupi",
+      "title": "Sweat: Queer Hyperpop Party Presents GUPI",
+      "start": "2026-11-20T23:00:00+00:00",
+      "end": "2026-11-21T03:00:00+00:00",
+      "venue": "Komedia",
+      "description": "&lt;p&gt;An extra special SWEAT, headlined by none other than the iconic GUPI &lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/sweat-queer-hyperpop-party-presents-gupi/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "grand-winter-makers-fair",
+      "title": "Grand Winter Makers Fair",
+      "start": "2026-11-21T10:30:00+00:00",
+      "end": "2026-11-21T17:00:00+00:00",
+      "venue": "The British Engineerium",
+      "description": "&lt;p&gt;A festive weekend at The British Engineerium with 120 independent makers, artists, designers and local food and drink producers.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/grand-winter-makers-fair/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "an-afternoon-of-indie-over-30s-only",
+      "title": "An Afternoon of Indie (Over 30s Only)",
+      "start": "2026-11-21T15:00:00+00:00",
+      "end": "2026-11-21T19:00:00+00:00",
+      "venue": "Dust",
+      "description": "&lt;p&gt;A daytime indie party at DUST for over 30s, with Feeling Gloomy and Old School Indie DJs playing classics from across the decades.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/an-afternoon-of-indie-over-30s-only/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "the-christmas-orchestra",
+      "title": "The Christmas Orchestra",
+      "start": "2026-11-21T18:00:00+00:00",
+      "end": "2026-11-21T19:15:00+00:00",
+      "venue": "All Saints Hove",
+      "description": "&lt;p&gt;A 16-piece chamber orchestra brings festive film music, traditional carols and Christmas classics&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-christmas-orchestra/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "christmas-art-gift-market",
+      "title": "Christmas Art &amp; Gift Market",
+      "start": "2026-11-22T11:00:00+00:00",
+      "end": "2026-11-22T15:00:00+00:00",
+      "venue": "St George’s Church",
+      "description": "&lt;p&gt;Taking over St George’s Church the KTAA\\'s Christmas Art &amp; Gift Market&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/christmas-art-gift-market/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "the-art-yard-sale-winter-edition",
+      "title": "The Art Yard Sale Winter Edition",
+      "start": "2026-11-22T11:00:00+00:00",
+      "end": "2026-11-22T16:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;The Art Yard Sale takes over the Brighton Open Market to celebrate 100 years of one of the city\\'s most iconic creative spaces.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-art-yard-sale-winter-edition/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "crafty-kids-make-a-keepsake-box",
+      "title": "Crafty Kids: Make A Keepsake Box!",
+      "start": "2026-11-22T11:15:00+00:00",
+      "end": "2026-11-22T12:05:00+00:00",
+      "venue": "Brighton Dome &#8211; Anita’s Room",
+      "description": "&lt;p&gt;Craft workshops for children and their grown ups to enjoy together.All welcome, no experience necessary.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/crafty-kids-make-a-keepsake-box/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "the-alternative-comedy-jam",
+      "title": "The Alternative Comedy Jam",
+      "start": "2026-11-23T20:00:00+00:00",
+      "end": "2026-11-23T22:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;An offbeat comedy night mixing character comedy, music, poetry, drag, clowning and plenty of jam.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-alternative-comedy-jam/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "bipc-start-up-day-2026",
+      "title": "BIPC Start-up Day 2026",
+      "start": "2026-11-24T10:00:00+00:00",
+      "end": "2026-11-24T14:30:00+00:00",
+      "venue": "Jubilee Library",
+      "description": "&lt;p&gt;Learn how the BIPC can help businesses and join the start-up workshops, and network.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/bipc-start-up-day-2026/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "paranormal-activity",
+      "title": "Paranormal Activity",
+      "start": "2026-11-24T19:30:00+00:00",
+      "end": "2026-11-24T21:50:00+00:00",
+      "venue": "Theatre Royal Brighton",
+      "description": "&lt;p&gt;Inspired by the hit horror film series, Paranormal Activity brings a brand-new supernatural story to the stage.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/paranormal-activity/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "the-story-trail-farewell-weekend",
+      "title": "The Story Trail Farewell Weekend",
+      "start": "2026-11-27T09:00:00+00:00",
+      "end": "2026-11-27T17:00:00+00:00",
+      "venue": "The Wing at the Brighton Centre",
+      "description": "&lt;p&gt;See The Story Trail sculptures together one final time at The Wing, with activities, artists, authors, Santa at selected times and trail merchandise.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-story-trail-farewell-weekend/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "the-fairy-tale-fair-christmas-market",
+      "title": "The Fairy Tale Fair, Christmas Market",
+      "start": "2026-11-28T11:00:00+00:00",
+      "end": "2026-11-29T16:00:00+00:00",
+      "venue": "St. Augustine&#8217;s Arts &#038; Events Centre",
+      "description": "&lt;p&gt;A weekend of festive fun and beautiful gifts&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-fairy-tale-fair-christmas-market/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "bottomless-drag-brunch",
+      "title": "Bottomless Drag Brunch",
+      "start": "2026-11-28T14:00:00+00:00",
+      "end": "2026-11-28T16:30:00+00:00",
+      "venue": "Legends Hotel",
+      "description": "&lt;p&gt;Bottomless drag brunch at Legends Brighton with live queens, brunch, games and 90 minutes of bottomless drinks.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/bottomless-drag-brunch/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "love-to-be-brighton",
       "title": "Love to be… Brighton",
       "start": "2026-11-28T16:00:00+00:00",
@@ -927,14 +1367,157 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "december",
-      "title": "Christmas with the Royal Philharmonic Orchestra",
-      "start": "2026-12-13T16:00:00+00:00",
-      "end": "2026-12-13T16:00:00+00:00",
-      "venue": "Brighton Dome",
-      "description": "&lt;p&gt;The Royal Philharmonic Orchestra, Brighton Festival Chorus and Brighton Festival Youth Choir perform fanfares, Christmas classics and carols, conducted by James Morgan with mezzo-soprano Juliette Pochin.&lt;/p&gt;\\n",
+      "id": "frankie-fanns-double-feature",
+      "title": "Frankie Fann&#8217;s Double Feature",
+      "start": "2026-11-28T20:00:00+00:00",
+      "end": "2026-11-28T22:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;A drag variety show at Ironworks Studios with Frankie Fann, guest performers and a time-warping anniversary celebration.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/frankie-fanns-double-feature/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "december",
+      "title": "The Story Trail Auction",
+      "start": "2026-11-30T18:00:00+00:00",
+      "end": "2026-11-30T23:00:00+00:00",
+      "venue": "The Wing at the Brighton Centre",
+      "description": "&lt;p&gt;The Story Trail\\'s 30 large BookBench sculptures go under the hammer to raise funds for Amaze.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/brighton-logo-scaled.png",
       "url": "https://brighton.co.uk/whats-on/december/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "the-story-trail-auction",
+      "title": "The Story Trail Auction",
+      "start": "2026-11-30T18:00:00+00:00",
+      "end": "2026-11-30T23:00:00+00:00",
+      "venue": "The Wing at the Brighton Centre",
+      "description": "&lt;p&gt;The Story Trail\\'s 30 large BookBench sculptures go under the hammer to raise funds for Amaze.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/the-story-trail-auction/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "one-voice-festival-of-singing-2026",
+      "title": "One Voice Festival of Singing 2026",
+      "start": "2026-12-01T17:00:00+00:00",
+      "end": "2026-12-01T17:00:00+00:00",
+      "venue": "Brighton Dome &#8211; Concert Hall",
+      "description": "&lt;p&gt;Over 2,200 young singers from schools across Brighton &amp; Hove and East Sussex come together for a seasonal celebration of singing.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/one-voice-festival-of-singing-2026/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "komedia-christmas-party",
+      "title": "Komedia Christmas Party",
+      "start": "2026-12-03T18:30:00+00:00",
+      "end": "2026-12-03T18:30:00+00:00",
+      "venue": "Komedia",
+      "description": "&lt;p&gt;A month-long run of festive parties featuring a three-course Christmas dinner, award-winning comedy show, and dancing until late&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/komedia-christmas-party/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "brighton-wine-festival",
+      "title": "Brighton Wine Festival",
+      "start": "2026-12-04T12:00:00+00:00",
+      "end": "2026-12-04T14:30:00+00:00",
+      "venue": "Brighton Dome &#8211; Corn Exchange",
+      "description": "&lt;p&gt;A two-day wine tasting festival at Brighton Dome&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/brighton-wine-festival/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "martin-kemp-back-to-the-80s-xmas-special",
+      "title": "Martin Kemp &#8211; Back to the 80s Xmas Special",
+      "start": "2026-12-04T19:00:00+00:00",
+      "end": "2026-12-04T22:00:00+00:00",
+      "venue": "Concorde 2",
+      "description": "&lt;p&gt;Martin Kemp brings his Back to the 80s for a Christmas special, with an evening of 80s pop and festive tracks.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/martin-kemp-back-to-the-80s-xmas-special/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "craft-fair",
+      "title": "Craft Fair",
+      "start": "2026-12-05T10:00:00+00:00",
+      "end": "2026-12-05T12:00:00+00:00",
+      "venue": "Lewes Road United Reformed Church",
+      "description": "&lt;p&gt;A Christmas craft fair in Brighton with handmade gifts, a free kids\\' craft table and refreshments.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/craft-fair/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "etsy-christmas-fair",
+      "title": "Etsy Christmas Fair",
+      "start": "2026-12-05T10:00:00+00:00",
+      "end": "2026-12-05T16:00:00+00:00",
+      "venue": "Brighton Dome &#8211; Concert Hall Foyer",
+      "description": "&lt;p&gt;Brighton Etsy Team\\'s annual Christmas fair returns to Brighton Dome with more than 90 local designers, artists &amp; makers.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/etsy-christmas-fair/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "paper-mistletoe-workshop",
+      "title": "Paper Mistletoe Workshop",
+      "start": "2026-12-05T10:00:00+00:00",
+      "end": "2026-12-05T13:00:00+00:00",
+      "venue": "One Garden Brighton",
+      "description": "&lt;p&gt;Make your own festive crepe paper mistletoe in a relaxed three-hour workshop.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/paper-mistletoe-workshop/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "brilliant-brightons-festive-afternoon",
+      "title": "Brilliant Brighton&#8217;s Festive Afternoon",
+      "start": "2026-12-05T14:00:00+00:00",
+      "end": "2026-12-05T18:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;Choirs, singers and a brass band bring festive performances to Brighton city centre for a free afternoon celebrating Small Business Saturday.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/brilliant-brightons-festive-afternoon/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "a-very-festive-wedding-show",
+      "title": "A VERY Festive Wedding Show",
+      "start": "2026-12-06T11:00:00+00:00",
+      "end": "2026-12-06T15:00:00+00:00",
+      "venue": "PLATF9RM &#8211; Hove",
+      "description": "&lt;p&gt;The UK’s cosiest wedding fair is coming to Brighton! &lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/a-very-festive-wedding-show/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "origami-lanterns",
+      "title": "Origami Lanterns",
+      "start": "2026-12-10T19:30:00+00:00",
+      "end": "2026-12-10T21:30:00+00:00",
+      "venue": "The Cow",
+      "description": "&lt;p&gt;A relaxed pop-up workshop where you\\'ll fold paper cubes and turn them into your own set of glowing origami fairy lights.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/origami-lanterns/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "afternoon-tea-with-santa",
+      "title": "Afternoon Tea with Santa",
+      "start": "2026-12-12T13:00:00+00:00",
+      "end": "2026-12-12T15:00:00+00:00",
+      "venue": "Saltdean Lido",
+      "description": "&lt;p&gt;A festive family afternoon tea with Christmas treats, music, activities and a special visit from Santa.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/afternoon-tea-with-santa/",
       "source": "Brighton.co.uk"
     },
     {
@@ -949,6 +1532,28 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "brighton-xmas-hoedown",
+      "title": "Brighton Xmas Hoedown",
+      "start": "2026-12-18T19:30:00+00:00",
+      "end": "2026-12-18T23:30:00+00:00",
+      "venue": "Brighton Racecourse",
+      "description": "&lt;p&gt;Yeehohoho! Experience the best Xmas country night with live country music, line dancing &amp; the best honky tonk vibe. &lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/brighton-xmas-hoedown/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "giant-bubble-show-with-samsam-bubbleman-2026-show",
+      "title": "Giant Bubble Show with Samsam Bubbleman! 2026 Show",
+      "start": "2026-12-19T11:00:00+00:00",
+      "end": "2026-12-19T12:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;Get ready to be BLOWN AWAY by 12 x Guinness Record breaker, Samsam Bubbleman - the world\\'s leading &quot;Bubbleologist&quot;- Returning for 2026&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/giant-bubble-show-with-samsam-bubbleman-2026-show/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "the-bootleg-beatles",
       "title": "The Bootleg Beatles",
       "start": "2026-12-19T19:30:00+00:00",
@@ -957,6 +1562,50 @@
       "description": "&lt;p&gt;The Bootleg Beatles and their orchestra recreate seven landmark performances from the Fab Four’s live career, from Liverpool’s early club stages to the London rooftop. The seated Brighton Centre show [&hellip;]&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/the-bootleg-beatles/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "burning-the-clocks",
+      "title": "Burning the Clocks",
+      "start": "2026-12-21T00:00:00+00:00",
+      "end": "2026-12-21T00:00:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;The 2026 theme, ‘Magicada’, representing a symbolic rest followed by a noisy awakening.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/burning-the-clocks/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "taylor-swift-a-celebration",
+      "title": "Taylor Swift: A Celebration",
+      "start": "2026-12-22T19:00:00+00:00",
+      "end": "2026-12-22T21:30:00+00:00",
+      "venue": "Outlook Live",
+      "description": "&lt;p&gt;A Taylor Swift celebration with live vocal performances, a Swiftie quiz and a Taylor-themed disco after the show.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/taylor-swift-a-celebration/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "aladdin-brightons-family-pantomime",
+      "title": "Aladdin: Brighton&#8217;s Family Pantomime",
+      "start": "2026-12-26T14:00:00+00:00",
+      "end": "2026-12-26T16:00:00+00:00",
+      "venue": "DoubleTree by Hilton Brighton Metropole",
+      "description": "&lt;p&gt;Brighton\\'s family pantomime returns for Christmas 2026 with Aladdin.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/aladdin-brightons-family-pantomime/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "vanessa-williams-live-in-concert",
+      "title": "Vanessa Williams: Live in Concert",
+      "start": "2027-02-24T19:30:00+00:00",
+      "end": "2027-02-24T21:20:00+00:00",
+      "venue": "Theatre Royal Brighton",
+      "description": "&lt;p&gt;Vanessa Williams brings her first full UK concert tour to Theatre Royal Brighton, performing hits and stage favourites with a live band.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/vanessa-williams-live-in-concert/",
       "source": "Brighton.co.uk"
     }
   ]
