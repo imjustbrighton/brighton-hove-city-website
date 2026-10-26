@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T13:06:13Z",
+  "updated": "2026-10-26T22:41:55Z",
   "source": "https://brighton.co.uk/whats-on/",
   "events": [
     {
@@ -784,6 +784,17 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "sip-wick-candle-making-in-brighton",
+      "title": "Sip &amp; Wick &#8211; Candle Making in Brighton",
+      "start": "2026-10-25T14:00:00+00:00",
+      "end": "2026-10-25T16:00:00+00:00",
+      "venue": "The Joker &#8211; Brighton",
+      "description": "&lt;p&gt;Join our hands-on candle-making workshop. Expect Neo Soul, R&amp;B and Pop vibes. Craft, relax, and take home your unique creations to enjoy. Bring yourself or bring a friend, and get [&hellip;]&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/sip-wick-candle-making-in-brighton/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "rich-wilson-to-the-cradle-from-the-rave",
       "title": "Rich Wilson: To The Cradle, From The Rave",
       "start": "2026-10-25T15:30:00+00:00",
@@ -1496,6 +1507,17 @@
       "description": "&lt;p&gt;A relaxed pop-up workshop where you\\'ll fold paper cubes and turn them into your own set of glowing origami fairy lights.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/origami-lanterns/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "afternoon-tea-with-santa",
+      "title": "Afternoon Tea with Santa",
+      "start": "2026-12-12T13:00:00+00:00",
+      "end": "2026-12-12T15:00:00+00:00",
+      "venue": "Saltdean Lido",
+      "description": "&lt;p&gt;A festive family afternoon tea with Christmas treats, music, activities and a special visit from Santa.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/afternoon-tea-with-santa/",
       "source": "Brighton.co.uk"
     },
     {
