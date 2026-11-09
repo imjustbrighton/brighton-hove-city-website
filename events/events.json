@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T06:28:40Z",
+  "updated": "2026-11-09T22:23:23Z",
   "source": "https://brighton.co.uk/whats-on/",
   "events": [
     {
@@ -487,14 +487,14 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "grand-winter-makers-fair",
+      "id": "2026-11-21",
       "title": "Grand Winter Makers Fair",
       "start": "2026-11-21T10:30:00+00:00",
       "end": "2026-11-21T17:00:00+00:00",
       "venue": "The British Engineerium",
-      "description": "&lt;p&gt;A festive weekend at The British Engineerium with 120 independent makers, artists, designers and local food and drink producers.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/grand-winter-makers-fair/",
+      "description": "&lt;p&gt;Shop 120 independent artists, makers &amp; local food and drink producers at a huge winter weekend at the British Engineerium. Join us at the Grand Winter Makers &amp; Art Fair [&hellip;]&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/paperdaisy.jpg",
+      "url": "https://brighton.co.uk/whats-on/grand-winter-makers-fair/2026-11-21/",
       "source": "Brighton.co.uk"
     },
     {
@@ -520,6 +520,17 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "2026-11-22",
+      "title": "Grand Winter Makers Fair",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T17:00:00+00:00",
+      "venue": "The British Engineerium",
+      "description": "&lt;p&gt;Shop 120 independent artists, makers &amp; local food and drink producers at a huge winter weekend at the British Engineerium. Join us at the Grand Winter Makers &amp; Art Fair [&hellip;]&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/paperdaisy.jpg",
+      "url": "https://brighton.co.uk/whats-on/grand-winter-makers-fair/2026-11-22/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "christmas-art-gift-market",
       "title": "Christmas Art &amp; Gift Market",
       "start": "2026-11-22T11:00:00+00:00",
@@ -539,17 +550,6 @@
       "description": "&lt;p&gt;The Art Yard Sale takes over the Brighton Open Market to celebrate 100 years of one of the city\\'s most iconic creative spaces.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/the-art-yard-sale-winter-edition/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "crafty-kids-make-a-keepsake-box",
-      "title": "Crafty Kids: Make A Keepsake Box!",
-      "start": "2026-11-22T11:15:00+00:00",
-      "end": "2026-11-22T12:05:00+00:00",
-      "venue": "Brighton Dome &#8211; Anita’s Room",
-      "description": "&lt;p&gt;Craft workshops for children and their grown ups to enjoy together.All welcome, no experience necessary.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/crafty-kids-make-a-keepsake-box/",
       "source": "Brighton.co.uk"
     },
     {
@@ -740,14 +740,14 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "brilliant-brightons-festive-afternoon",
-      "title": "Brilliant Brighton&#8217;s Festive Afternoon",
-      "start": "2026-12-05T14:00:00+00:00",
-      "end": "2026-12-05T18:00:00+00:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;Brilliant Brighton\\'s Festive Afternoon returns to the city centre on Saturday 5 December from 2pm to 6pm, celebrating Christmas and Small Business Saturday. Choirs, singers and a brass band will [&hellip;]&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/event-brilliant-brighton-festive-afternoon-2.jpg",
-      "url": "https://brighton.co.uk/whats-on/events/brilliant-brightons-festive-afternoon/",
+      "id": "scallywag-xmas-party",
+      "title": "Scallywag Xmas Party",
+      "start": "2026-12-05T20:00:00+00:00",
+      "end": "2026-12-06T02:00:00+00:00",
+      "venue": "Whitecliffs Cafe, Bar and Grill",
+      "description": "&lt;p&gt;Back for the 6th year in a row, it\\'s the legendary Scallywag Xmas Party at Whitecliffs Cafe, Saltdean Beach! In celebration of a miraculous virgin birth, we come together once [&hellip;]&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/CLUB-Poster-1500-DEC-26-1-1-copy.jpeg",
+      "url": "https://brighton.co.uk/whats-on/events/scallywag-xmas-party/",
       "source": "Brighton.co.uk"
     },
     {
@@ -773,6 +773,17 @@
       "source": "Brighton.co.uk"
     },
     {
+      "id": "2026-12-12",
+      "title": "Brighton&#8217;s Festive Makers Market",
+      "start": "2026-12-12T10:30:00+00:00",
+      "end": "2026-12-12T16:30:00+00:00",
+      "venue": "Wagner Hall",
+      "description": "&lt;p&gt;Buzzing Christmas Makers Fair in the heart of Brighton with 70 exhibitors, inside &amp; out, mulled wine &amp; festive bar -free entry!&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/outside-gazebos.jpg",
+      "url": "https://brighton.co.uk/whats-on/festive-makers-market/2026-12-12/",
+      "source": "Brighton.co.uk"
+    },
+    {
       "id": "afternoon-tea-with-santa",
       "title": "Afternoon Tea with Santa",
       "start": "2026-12-12T13:00:00+00:00",
@@ -781,6 +792,17 @@
       "description": "&lt;p&gt;A festive family afternoon tea with Christmas treats, music, activities and a special visit from Santa.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/afternoon-tea-with-santa/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "2026-12-13",
+      "title": "Brighton&#8217;s Festive Makers Market",
+      "start": "2026-12-13T10:30:00+00:00",
+      "end": "2026-12-13T16:30:00+00:00",
+      "venue": "Wagner Hall",
+      "description": "&lt;p&gt;Buzzing Christmas Makers Fair in the heart of Brighton with 70 exhibitors, inside &amp; out, mulled wine &amp; festive bar -free entry!&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/outside-gazebos.jpg",
+      "url": "https://brighton.co.uk/whats-on/festive-makers-market/2026-12-13/",
       "source": "Brighton.co.uk"
     },
     {
@@ -858,17 +880,6 @@
       "description": "&lt;p&gt;Brighton\\'s family pantomime returns for Christmas 2026 with Aladdin.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/aladdin-brightons-family-pantomime/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "vanessa-williams-live-in-concert",
-      "title": "Vanessa Williams: Live in Concert",
-      "start": "2027-02-24T19:30:00+00:00",
-      "end": "2027-02-24T21:20:00+00:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;Vanessa Williams comes to Theatre Royal Brighton as part of her first full UK concert tour. Accompanied by a live band, the show spans her recording career and stage work, [&hellip;]&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/event-vanessa-williams-live-in-concert.jpg",
-      "url": "https://brighton.co.uk/whats-on/events/vanessa-williams-live-in-concert/",
       "source": "Brighton.co.uk"
     }
   ]
