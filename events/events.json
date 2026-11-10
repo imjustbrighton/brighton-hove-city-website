@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T07:18:27Z",
+  "updated": "2026-11-10T19:44:02Z",
   "source": "https://brighton.co.uk/whats-on/",
   "events": [
     {
@@ -535,7 +535,7 @@
       "title": "Christmas Art &amp; Gift Market",
       "start": "2026-11-22T11:00:00+00:00",
       "end": "2026-11-22T15:00:00+00:00",
-      "venue": "St George’s Church",
+      "venue": "St Georgeâ€™s Church",
       "description": "&lt;p&gt;Taking over St George’s Church the KTAA\\'s Christmas Art &amp; Gift Market&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/christmas-art-gift-market/",
@@ -597,14 +597,14 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "the-fairy-tale-fair-christmas-market",
+      "id": "2026-11-28",
       "title": "The Fairy Tale Fair, Christmas Market",
       "start": "2026-11-28T11:00:00+00:00",
-      "end": "2026-11-29T16:00:00+00:00",
+      "end": "2026-11-28T16:00:00+00:00",
       "venue": "St. Augustine&#8217;s Arts &#038; Events Centre",
       "description": "&lt;p&gt;The Fairy Tale Fair returns to Brighton for the first time in 7 years on Saturday 28th and Sunday 29th November at the beautiful St Augustine\\'s Arts Centre (Stanford Avenue, [&hellip;]&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/event-the-fairy-tale-fair-christmas-market.jpg",
-      "url": "https://brighton.co.uk/whats-on/events/the-fairy-tale-fair-christmas-market/",
+      "url": "https://brighton.co.uk/whats-on/the-fairy-tale-fair-christmas-market/2026-11-28/",
       "source": "Brighton.co.uk"
     },
     {
@@ -630,14 +630,14 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "frankie-fanns-double-feature",
-      "title": "Frankie Fann&#8217;s Double Feature",
-      "start": "2026-11-28T20:00:00+00:00",
-      "end": "2026-11-28T22:00:00+00:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;A drag variety show at Ironworks Studios with Frankie Fann, guest performers and a time-warping anniversary celebration.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/frankie-fanns-double-feature/",
+      "id": "2026-11-29",
+      "title": "The Fairy Tale Fair, Christmas Market",
+      "start": "2026-11-29T11:00:00+00:00",
+      "end": "2026-11-29T16:00:00+00:00",
+      "venue": "St. Augustine&#8217;s Arts &#038; Events Centre",
+      "description": "&lt;p&gt;The Fairy Tale Fair returns to Brighton for the first time in 7 years on Saturday 28th and Sunday 29th November at the beautiful St Augustine\\'s Arts Centre (Stanford Avenue, [&hellip;]&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/event-the-fairy-tale-fair-christmas-market.jpg",
+      "url": "https://brighton.co.uk/whats-on/the-fairy-tale-fair-christmas-market/2026-11-29/",
       "source": "Brighton.co.uk"
     },
     {
