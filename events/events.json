@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:02:05Z",
+  "updated": "2026-11-17T07:57:07Z",
   "source": "https://brighton.co.uk/whats-on/",
   "events": [
     {
@@ -718,17 +718,6 @@
       "source": "Brighton.co.uk"
     },
     {
-      "id": "etsy-christmas-fair",
-      "title": "Etsy Christmas Fair",
-      "start": "2026-12-05T10:00:00+00:00",
-      "end": "2026-12-05T16:00:00+00:00",
-      "venue": "Brighton Dome &#8211; Concert Hall Foyer",
-      "description": "&lt;p&gt;Brighton Etsy Team\\'s annual Christmas fair returns to Brighton Dome with more than 90 local designers, artists &amp; makers.&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/etsy-christmas-fair/",
-      "source": "Brighton.co.uk"
-    },
-    {
       "id": "paper-mistletoe-workshop",
       "title": "Paper Mistletoe Workshop",
       "start": "2026-12-05T10:00:00+00:00",
@@ -825,17 +814,6 @@
       "description": "&lt;p&gt;Yeehohoho! Experience the best Xmas country night with live country music, line dancing &amp; the best honky tonk vibe. &lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/brighton-xmas-hoedown/",
-      "source": "Brighton.co.uk"
-    },
-    {
-      "id": "giant-bubble-show-with-samsam-bubbleman-2026-show",
-      "title": "Giant Bubble Show with Samsam Bubbleman! 2026 Show",
-      "start": "2026-12-19T11:00:00+00:00",
-      "end": "2026-12-19T12:00:00+00:00",
-      "venue": "Outlook Live",
-      "description": "&lt;p&gt;Get ready to be BLOWN AWAY by 12 x Guinness Record breaker, Samsam Bubbleman - the world\\'s leading &quot;Bubbleologist&quot;- Returning for 2026&lt;/p&gt;\\n",
-      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
-      "url": "https://brighton.co.uk/whats-on/events/giant-bubble-show-with-samsam-bubbleman-2026-show/",
       "source": "Brighton.co.uk"
     },
     {
