@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T08:35:53Z",
+  "updated": "2026-11-25T21:42:29Z",
   "source": "https://brighton.co.uk/whats-on/",
   "events": [
     {
@@ -891,6 +891,39 @@
       "description": "&lt;p&gt;Brighton\\'s family pantomime returns for Christmas 2026 with Aladdin.&lt;/p&gt;\\n",
       "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
       "url": "https://brighton.co.uk/whats-on/events/aladdin-brightons-family-pantomime/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "jack-whitehall-bad-influence-thursday",
+      "title": "Jack Whitehall: Bad Influence – Thursday",
+      "start": "2027-01-28T20:00:00+00:00",
+      "end": "2027-01-28T20:00:00+00:00",
+      "venue": "Brighton Centre",
+      "description": "&lt;p&gt;Jack Whitehall returns to arena comedy with Bad Influence, a new show packed with unfiltered observations, awkward confessions and mischievous stories. This is one of two separate Brighton Centre performances.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/jack-whitehall-bad-influence-thursday/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "january",
+      "title": "Jack Whitehall: Bad Influence – Thursday",
+      "start": "2027-01-28T20:00:00+00:00",
+      "end": "2027-01-28T20:00:00+00:00",
+      "venue": "Brighton Centre",
+      "description": "&lt;p&gt;Jack Whitehall returns to arena comedy with Bad Influence, a new show packed with unfiltered observations, awkward confessions and mischievous stories. This is one of two separate Brighton Centre performances.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/january/",
+      "source": "Brighton.co.uk"
+    },
+    {
+      "id": "jack-whitehall-bad-influence-friday",
+      "title": "Jack Whitehall: Bad Influence – Friday",
+      "start": "2027-01-29T20:00:00+00:00",
+      "end": "2027-01-29T20:00:00+00:00",
+      "venue": "Brighton Centre",
+      "description": "&lt;p&gt;Jack Whitehall returns to arena comedy with Bad Influence, a new show packed with unfiltered observations, awkward confessions and mischievous stories. This is one of two separate Brighton Centre performances.&lt;/p&gt;\\n",
+      "image": "https://brighton.co.uk/wp-content/uploads/whats-on-placeholder-2.webp",
+      "url": "https://brighton.co.uk/whats-on/events/jack-whitehall-bad-influence-friday/",
       "source": "Brighton.co.uk"
     }
   ]
